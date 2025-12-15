@@ -54,20 +54,20 @@ I am a **Computer Science Engineering undergraduate specializing in Artificial I
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 
-
 ## 🕰️ Research & Learning Timeline
 
 🧩 **Analytical Foundations**  
-Developed strong analytical and problem-solving skills through early exposure to mathematics, abacus training, and structured reasoning, forming the foundation for later computational thinking.
+Built strong analytical and problem-solving skills through mathematics, abacus training, and structured reasoning, forming the base for computational thinking.
 
 💻 **Transition into Computing & AI**  
-Built a solid base in programming, data structures, and object-oriented design, gradually shifting focus from rule-based systems to learning-based models and data-driven intelligence.
+Developed foundations in programming, OOPS, DSA, and data-driven systems, gradually shifting from rule-based logic to learning-based models.
 
 🌍 **Interdisciplinary Research Phase**  
-Entered applied research at the intersection of **AI, geospatial analysis, and earthquake engineering**, working on ANN-based seismic modeling and spatial intelligence systems.
+Entered applied research at the intersection of **AI, geospatial analysis, and earthquake engineering**, working on ANN-based seismic modeling and spatial intelligence.
 
 🚀 **Current Focus (2024–Present)**  
-Co-founding and contributing to **FORESIGHT-X**, while advancing research in **AI-enabled disaster management**, **spatio-temporal modeling**, **RAG-based reasoning pipelines**, and **LangGraph-driven agent systems**, with parallel work in healthcare and offshore engineering AI applications.
+Co-founding **FORESIGHT-X** while advancing research in **AI-enabled disaster management**, **spatio-temporal modeling**, **RAG-based reasoning pipelines**, and **LangGraph-driven agent systems**, alongside work in healthcare and offshore engineering AI.
+
 
 
 
