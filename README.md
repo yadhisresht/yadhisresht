@@ -1,6 +1,23 @@
-<h1 align="center">Hi, I'm Yadhisresht Harikrishnan 👋</h1>
+<p align="center">
+  <svg width="600" height="70" viewBox="0 0 600 70" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+          font-size="32" font-weight="600" fill="#24292f">
+      Hi, I'm Yadhisresht Harikrishnan 👋
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="0 -5"
+        to="0 5"
+        dur="2.5s"
+        repeatCount="indefinite"
+        direction="alternate" />
+    </text>
+  </svg>
+</p>
+
 <p align="center"><b>AI & ML • Research-Oriented Engineer • Applied Intelligence Systems</b></p>
 <p align="center">Competitive by nature, disciplined by practice, and driven to build technology with impact.</p>
+
 
 
 
