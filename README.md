@@ -23,22 +23,28 @@ Alongside my technical journey, I actively engage in **public speaking, leadersh
 
 
 ## 💻 Technical & Research Stack
-**Languages & Foundations**  
+**1) Languages & Foundations**  
+
 Python · Java · C · C++ · SQL · OOP · Algorithmic Thinking
 
-**Machine Learning & AI** 
+**2) Machine Learning & AI** 
+
 Artificial Neural Networks (ANN) · Deep Learning Models · Supervised Learning · Experimental ML
 
-**LLMs & Generative AI Systems** 
+**3) LLMs & Generative AI Systems** 
+
 Retrieval-Augmented Generation (RAG) · Text Embeddings · Semantic Search · LangGraph-based Agent Workflows
 
-**Geospatial & Spatio-Temporal Analysis** 
+**4) Geospatial & Spatio-Temporal Analysis** 
+
 GIS Mapping · Spatial Feature Integration · Temporal Pattern Modeling
 
-**Research & Evaluation** 
+**5) Research & Evaluation** 
+
 Research Methodologies · Feature Engineering · Model Evaluation · Analytical & Critical Reasoning
 
-**Communication & Documentation** 
+**6) Communication & Documentation** 
+
 Technical Writing · Academic Documentation · Public Speaking · Interdisciplinary Collaboration
 
 
