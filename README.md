@@ -80,7 +80,6 @@ Alongside my technical journey, I actively engage in **public speaking, leadersh
 * **Seismic Hazard Assessment using Artificial Neural Networks and Geospatial Analysis**
   Full-length research manuscript under expansion with enhanced datasets, figures, and evaluation metrics.
 
-> *Publication links and preprints will be added as repositories and arXiv-style drafts.*
 
 ---
 
