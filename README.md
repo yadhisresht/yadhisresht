@@ -1,5 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=120&section=header&text=Yadhisresht%20Harikrishnan&fontColor=ffffff&fontSize=38" />
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Inter
+    &weight=600
+    &size=32
+    &pause=1000
+    &color=000000
+    &center=true
+    &vCenter=true
+    &width=750
+    &lines=Hi%2C+I'm+Yadhisresht+Harikrishnan+%F0%9F%91%8B"
+  />
 </p>
 
 <p align="center"><b>AI & ML • Research-Oriented Engineer • Artificial Intelligence Systems</b></p>
