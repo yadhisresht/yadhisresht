@@ -107,13 +107,13 @@ Explores **deep neural networks** for automated diagnosis and early risk predict
     <td align="center" width="50%">
       <h3>🏆 Hackathon Stats</h3>
       <p><b>5× National Hackathon Winner</b></p>
-      <p><b>Domains: AI · Geospatial · Disaster Tech · Systems Design</p>
+      <p>Domains: AI · Geospatial · Disaster Tech · Systems Design</p>
       <p><b>🥇 Winner</b> — GEO HACK 1.0 (IEEE GRSS SRMIST)</p>
       <p><b>🥈 Runner-Up</b> — TechZooka 2025 (Infosys × IIT Madras)</p>
       <p><b>🥈 Second Place</b> — SEISMO HACK 1.0 (ISET)</p>
       <p><b>🥉 Third Place</b> — Manipal Hackathon 2025 (MAHE, Manipal)</p>
       <p><b>🥉 Third Place</b> — Pitch Perfect 2025 (Directorate of Alumni Affairs, SRMIST)</p>
-      <p><b>Experience in high-pressure, interdisciplinary team environments</p>
+      <p>Experience in high-pressure, interdisciplinary team environments</p>
     </td>
   </tr>
 </table>
