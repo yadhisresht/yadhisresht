@@ -107,18 +107,16 @@ Explores **deep neural networks** for automated diagnosis and early risk predict
 
     <!-- RIGHT SIDE : HACKATHON STATS -->
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/Hackathon-Achievements-FFD700?style=for-the-badge&logo=hackaday&logoColor=black"/>
-
-      <p>
-        🥈 <b>SEISMO HACK 1.0</b> — ISET<br/>
-        🥉 <b>Manipal Hackathon 2025</b> — MAHE, Manipal<br/>
-        🥇 <b>GEO HACK 1.0 2025</b> — IEEE GRSS SRMIST<br/>
-        🥉 <b>Pitch Perfect 2025</b> — Directorate of Alumni Affairs, SRMIST<br/>
-        🥈 <b>TechZooka 2025</b> — Infosys × IIT Madras
-      </p>
+      <img src="https://img.shields.io/badge/Hackathon-Achievements-FFD700?style=for-the-badge&logo=hackaday&logoColor=black"/><br/><br/>
+      🥈 <b>SEISMO HACK 1.0</b> — ISET<br/>
+      🥉 <b>Manipal Hackathon 2025</b> — MAHE, Manipal<br/>
+      🥇 <b>GEO HACK 1.0 2025</b> — IEEE GRSS SRMIST<br/>
+      🥉 <b>Pitch Perfect 2025</b> — Directorate of Alumni Affairs, SRMIST<br/>
+      🥈 <b>TechZooka 2025</b> — Infosys × IIT Madras
     </td>
   </tr>
 </table>
+
 
 
 
