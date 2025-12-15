@@ -112,7 +112,6 @@ Explores **deep neural networks** for automated diagnosis and early risk predict
       <p><b>🥈 Second Place</b> — SEISMO HACK 1.0 (ISET)</p>
       <p><b>🥉 Third Place</b> — Manipal Hackathon 2025 (MAHE, Manipal)</p>
       <p><b>🥉 Third Place</b> — Pitch Perfect 2025 (Directorate of Alumni Affairs, SRMIST)</p>
-      
       <p><b>Experience in high-pressure, interdisciplinary team environments</p>
     </td>
   </tr>
