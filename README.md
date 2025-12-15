@@ -21,6 +21,7 @@ Alongside my technical journey, I actively engage in **public speaking, leadersh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yadhisresht-harikrishnan-615651301)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadhisreshtwork@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz.people.person?igsh=MWpmbTI4dW9lMm91ZQ==)
 
 
 ## 💻 Tech & Research Stack
