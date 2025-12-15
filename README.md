@@ -104,14 +104,15 @@ Explores **deep neural networks** for automated diagnosis and early risk predict
       <br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadhisresht&layout=compact&theme=tokyonight" height="165"/>
     </td>
-    
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=200&section=header&text=🏆%20Hackathon%20Achievements&fontColor=70a5fd&fontSize=26" />
+    <td align="center" width="50%">
+      <h3>🏆 Hackathon Stats</h3>
+      <p><b>5× National Hackathon Winner</b></p>
+      <p>Domains: AI · Geospatial · Disaster Tech · Systems Design</p>
+      <p>Experience in high-pressure, interdisciplinary team environments</p>
+    </td>
+  </tr>
+</table>
 
-- 🥇 GEO HACK 1.0 (IEEE GRSS SRMIST)
-- 🥈 SEISMO HACK 1.0 (ISET)
-- 🥉 Manipal Hackathon 2025 (MAHE)
-- 🥉 Pitch Perfect 2025 (SRMIST)
-- 🥈 TechZooka 2025 (Infosys × IIT Madras)
 
 
 
