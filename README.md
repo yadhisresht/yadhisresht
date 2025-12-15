@@ -99,23 +99,25 @@ Explores **deep neural networks** for automated diagnosis and early risk predict
 
 <table align="center">
   <tr>
-    <!-- LEFT SIDE : GITHUB STATS -->
+    <!-- LEFT SIDE : GitHub Stats -->
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=yadhisresht&show_icons=true&theme=tokyonight&count_private=true" height="165"/><br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=yadhisresht&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+      <br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadhisresht&layout=compact&theme=tokyonight" height="165"/>
     </td>
 
-    <!-- RIGHT SIDE : HACKATHON STATS -->
+    <!-- RIGHT SIDE : Hackathon Achievements -->
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/Hackathon-Achievements-FFD700?style=for-the-badge&logo=hackaday&logoColor=black"/><br/><br/>
-      🥈 <b>SEISMO HACK 1.0</b> — ISET<br/>
-      🥉 <b>Manipal Hackathon 2025</b> — MAHE, Manipal<br/>
-      🥇 <b>GEO HACK 1.0 2025</b> — IEEE GRSS SRMIST<br/>
-      🥉 <b>Pitch Perfect 2025</b> — Directorate of Alumni Affairs, SRMIST<br/>
-      🥈 <b>TechZooka 2025</b> — Infosys × IIT Madras
+      <h3>🏆 Hackathon Achievements</h3>
+      <p><b>🥇 Winner</b> — GEO HACK 1.0 (IEEE GRSS SRMIST)</p>
+      <p><b>🥈 Runner-Up</b> — TechZooka 2025 (Infosys × IIT Madras)</p>
+      <p><b>🥈 Second Place</b> — SEISMO HACK 1.0 (ISET)</p>
+      <p><b>🥉 Third Place</b> — Manipal Hackathon 2025 (MAHE, Manipal)</p>
+      <p><b>🥉 Third Place</b> — Pitch Perfect 2025 (Directorate of Alumni Affairs, SRMIST)</p>
     </td>
   </tr>
 </table>
+
 
 
 
