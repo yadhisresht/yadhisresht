@@ -1,6 +1,7 @@
-# Hi 👋, I'm Yadhisresht Harikrishnan
+<h1 align="center">Hi, I'm Yadhisresht Harikrishnan 👋</h1>
+<p align="center"><b>AI & ML • Research-Oriented Engineer • Applied Intelligence Systems</b></p>
+<p align="center">Competitive by nature, disciplined by practice, and driven to build technology with impact.</p>
 
-### AI & ML | Research-Oriented Engineer | Applied Intelligence Systems
 
 
 
@@ -11,96 +12,69 @@ I am a **Computer Science Engineering undergraduate specializing in Artificial I
 Alongside my technical journey, I actively engage in **public speaking, leadership roles, interdisciplinary collaboration, and sports**, which has helped me develop strong communication skills and a well-rounded professional mindset.
 
 
+## 🌐 Connect with Me
 
-## 🧠 Core Interests
-
-* Artificial Intelligence & Machine Learning
-* Deep Learning & Neural Networks
-* Research Methodologies & Applied AI
-* Problem Solving & Analytical Systems
-* Generative AI & Automation (exploratory)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yadhisresht-harikrishnan-615651301)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadhisreshtwork@gmail.com)
 
 
+## 💻 Tech & Research Stack
 
-## 💻 Technical & Research Stack
-**1) Languages & Foundations**  
+### 🧠 AI / ML / Research
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-Python · Java · C · C++ · SQL · OOP · Algorithmic Thinking
+### 🤖 LLMs & Generative AI
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blueviolet?style=for-the-badge)
+![Text Embeddings](https://img.shields.io/badge/Text%20Embeddings-4B8BBE?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-005571?style=for-the-badge)
 
-**2) Machine Learning & AI** 
+### 🌍 Geospatial & Data
+![GIS](https://img.shields.io/badge/GIS%20Mapping-2E7D32?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-Artificial Neural Networks (ANN) · Deep Learning Models · Supervised Learning · Experimental ML
-
-**3) LLMs & Generative AI Systems** 
-
-Retrieval-Augmented Generation (RAG) · Text Embeddings · Semantic Search · LangGraph-based Agent Workflows
-
-**4) Geospatial & Spatio-Temporal Analysis** 
-
-GIS Mapping · Spatial Feature Integration · Temporal Pattern Modeling
-
-**5) Research & Evaluation** 
-
-Research Methodologies · Feature Engineering · Model Evaluation · Analytical & Critical Reasoning
-
-**6) Communication & Documentation** 
-
-Technical Writing · Academic Documentation · Public Speaking · Interdisciplinary Collaboration
-
-
-
-## 🔬 Research Projects & Papers
-
-### 📄 Advancing Earthquake Engineering using AI
-
-* Applied **Machine Learning and Deep Learning models** for seismic risk assessment
-* Worked on **earthquake magnitude prediction** using real-world seismic datasets
-* Integrated **ANN-based models** with analytical evaluation to improve prediction reliability
-* Focused on translating theoretical ML concepts into **practical geoscience applications**
-
-### 📄 Seismic Hazard Assessment using Neural Networks & Geospatial Analysis
-
-* Conducted research combining **Artificial Neural Networks (ANN)** with **geospatial data**
-* Analyzed feature importance and temporal–spatial patterns in seismic activity
-* Aimed at improving **regional hazard assessment and disaster preparedness**
-
-### 📌 Ongoing & Exploratory Research
-
-* AI-driven risk modeling
-* Machine Learning for Earth & Environmental Sciences
-* Deep Learning for spatio-temporal data
-* Data-driven decision-support systems
+### ⚙️ Core CS
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
 
 
+## 🕰️ Research & Learning Timeline
 
-## 📚 Publications & Conferences
+🧩 **Early Foundations**  
+Analytical thinking shaped through mathematics, abacus training, and competitive problem-solving.
 
-### 📝 Conference Papers
+💻 **Entry into Computing**  
+Explored programming and algorithms, building interest in learning-based systems over rule-based logic.
 
-* **Advancing Earthquake Engineering: The Role of Machine Learning and Deep Learning in Mitigating Seismic Risks**
-  *Presented at an academic conference (IIT INDORE)*
-  Focused on applying ANN and DL models for seismic risk analysis and validation using real-world earthquake datasets.
+🌍 **Applied AI Research**  
+Worked on seismic and geospatial problems combining ML, ANN models, and GIS mapping.
 
-### 📝 Manuscripts & Works in Progress
-
-* **Seismic Hazard Assessment using Artificial Neural Networks and Geospatial Analysis**
-  Full-length research manuscript under expansion with enhanced datasets, figures, and evaluation metrics.
-
-
+🚀 **Current Focus (2024–Present)**  
+AI/ML research · Spatio-temporal modeling · RAG pipelines · LangGraph-based reasoning systems
 
 
-## 🎯 Current Focus
+## 📚 Publications & Research
 
-* Strengthening AI/ML and research foundations
-* Building meaningful academic and technical projects
-* Exploring applied AI use cases with societal impact
+📄 **Advancing Earthquake Engineering: The Role of Machine Learning and Deep Learning in Mitigating Seismic Risks**    
+Focus: ANN & DL models for seismic risk assessment using real-world datasets.
+
+🛠️ **Seismic Hazard Assessment using Artificial Neural Networks and Geospatial Analysis**  
+*Manuscript in progress*  
+Expanded with advanced datasets, GIS integration, and evaluation metrics.
 
 
+## 📊 GitHub Stats
 
-## 📫 Connect With Me
-
-* **LinkedIn:** [https://linkedin.com/in/yadhisresht-harikrishnan-615651301](https://linkedin.com/in/yadhisresht-harikrishnan-615651301)
-
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="165"/>
 
 
 > *Competitive by nature, disciplined by practice, and driven to build technology with impact.*
