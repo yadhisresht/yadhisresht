@@ -11,9 +11,8 @@
 
 ## 🚀 About Me
 
-I am a **Computer Science Engineering undergraduate** specializing in **Artificial Intelligence & Machine Learning** at **SRM Institute of Science and Technology (Batch 2024–28)**. My academic and research journey is strongly oriented towards applying **AI and ML to high-impact, real-world domains**, particularly **disaster management, earthquake engineering, and spatio-temporal intelligence systems**.
+I am a **Computer Science Engineering undergraduate specializing in Artificial Intelligence & Machine Learning** at **SRM Institute of Science and Technology (Batch 2024–28)**, with a strong research focus on applying **AI and ML to disaster management, earthquake engineering, and spatio-temporal intelligence systems**. I am the **Co-Founder of FORESIGHT-X**, an interdisciplinary research and innovation lab that bridges **computational intelligence with geophysical sciences** to develop data-driven, real-time solutions for seismic forecasting, disaster response, and resilience planning. My interests span **AI-driven modeling, geospatial intelligence, digital twins, and applied deep learning**, with a consistent emphasis on translating research ideas into deployable, real-world systems.
 
-I am a **Co-Founder of FORESIGHT-X**, an independent interdisciplinary research and innovation lab focused on integrating **computational intelligence with geophysical sciences**. Through this work, I actively engage in developing **data-driven, real-time, and sustainable systems** for seismic forecasting, disaster response, and resilience planning. My interests extend across **AI-driven modeling, geospatial intelligence, digital twins, and applied deep learning**, with a strong emphasis on translating research into deployable systems.
 
 
 
