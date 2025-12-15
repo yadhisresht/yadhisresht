@@ -97,15 +97,17 @@ Explores **deep neural networks** for automated diagnosis and early risk predict
 
 ## 📊 Stats & Achievements
 
-<img src="https://github-readme-stats.vercel.app/api?username=yadhisresht&show_icons=false&hide=stars,prs,issues,contribs&custom_title=🏆%20Hackathon%20Achievements&bg_color=1a1b27&title_color=70a5fd&text_color=c9d1d9&border_color=30363d&disable_animations=true&card_width=400&line_height=28&include_all_commits=false&count_private=false&show=none" />
-
-<p>
-🥇 1st Place — GEO HACK 1.0 (2025), IEEE GRSS SRMIST<br/>
-🥈 2nd Place — SEISMO HACK 1.0, ISET<br/>
-🥉 3rd Place — Manipal Hackathon 2025, MAHE Manipal<br/>
-🥉 3rd Place — Pitch Perfect 2025, SRMIST<br/>
-🥈 Runner Up — TechZooka 2025, Infosys × IIT Madras
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆%20Hackathon%20Achievements-5×%20National%20Level-1a1b27?style=for-the-badge&labelColor=1a1b27&color=70a5fd" />
 </p>
+
+<ul>
+  <li>🥇 GEO HACK 1.0 (IEEE GRSS SRMIST)</li>
+  <li>🥈 SEISMO HACK 1.0 (ISET)</li>
+  <li>🥉 Manipal Hackathon 2025 (MAHE)</li>
+  <li>🥉 Pitch Perfect 2025 (SRMIST)</li>
+  <li>🥈 TechZooka 2025 (Infosys × IIT Madras)</li>
+</ul>
 
 
 
