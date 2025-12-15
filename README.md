@@ -95,10 +95,23 @@ Explores **deep neural networks** for automated diagnosis and early risk predict
 - **AI-Assisted Reading Tool for Neurodiverse Users** — Accessibility-focused AI application
 
 
+## 📊 Stats & Achievements
 
-## 📈 GitHub Stats
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=yadhisresht&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadhisresht&layout=compact&theme=tokyonight" height="165"/>
+    </td>
+    <td align="center" width="50%">
+      <h3>🏆 Hackathon Stats</h3>
+      <p><b>5× National Hackathon Winner</b></p>
+      <p>Domains: AI · Geospatial · Disaster Tech · Systems Design</p>
+      <p>Experience in high-pressure, interdisciplinary team environments</p>
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yadhisresht&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadhisresht&layout=compact&theme=tokyonight" height="165"/>
 
 
