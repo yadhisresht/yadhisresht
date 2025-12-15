@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=140&section=header&text=AI%20%7C%20ML%20%7C%20Research&fontColor=ffffff&fontSize=32" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=120&section=header&text=Yadhisresht%20Harikrishnan&fontColor=ffffff&fontSize=38" />
 </p>
 
 <p align="center"><b>AI & ML • Research-Oriented Engineer • Artificial Intelligence Systems</b></p>
