@@ -20,26 +20,19 @@ Alongside my technical journey, I actively engage in **public speaking, leadersh
 
 ## 💻 Tech & Research Stack
 
-### 🧠 AI / ML / Research
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🤖 LLMs & Generative AI
 ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blueviolet?style=for-the-badge)
 ![Text Embeddings](https://img.shields.io/badge/Text%20Embeddings-4B8BBE?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge)
 ![Semantic Search](https://img.shields.io/badge/Semantic%20Search-005571?style=for-the-badge)
-
-### 🌍 Geospatial & Data
 ![GIS](https://img.shields.io/badge/GIS%20Mapping-2E7D32?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-
-### ⚙️ Core CS
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
