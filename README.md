@@ -29,14 +29,21 @@ Alongside my technical journey, I actively engage in **public speaking, leadersh
 ![Text Embeddings](https://img.shields.io/badge/Text%20Embeddings-4B8BBE?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge)
 ![Semantic Search](https://img.shields.io/badge/Semantic%20Search-005571?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API%20Integration-005571?style=for-the-badge)
+![Backend Development](https://img.shields.io/badge/Backend%20Development-0A192F?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
+![OOPS](https://img.shields.io/badge/OOPS-4A148C?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-283593?style=for-the-badge)
 ![GIS](https://img.shields.io/badge/GIS%20Mapping-2E7D32?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
 
 
 ## 🕰️ Research & Learning Timeline
