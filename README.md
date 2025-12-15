@@ -106,16 +106,21 @@ Explores **deep neural networks** for automated diagnosis and early risk predict
     </td>
     <td align="center" width="50%">
       <td align="center" width="50%">
+  <td align="center" width="50%" style="vertical-align: top;">
   <h3>🏆 Hackathon Achievements</h3>
   <p><b>5× National Hackathon Winner</b></p>
-  <ul align="left">
-    <li><b>SEISMO HACK 1.0</b> — 2nd Place (ISET)</li>
-    <li><b>Manipal Hackathon 2025</b> — 3rd Place (MAHE, Manipal)</li>
-    <li><b>GEO HACK 1.0 2025</b> — 1st Place (IEEE GRSS SRMIST)</li>
-    <li><b>Pitch Perfect 2025</b> — 3rd Place (Directorate of Alumni Affairs, SRMIST)</li>
-    <li><b>TechZooka 2025</b> — Runner Up (Infosys × IIT Madras)</li>
-  </ul>
+
+  <div style="text-align: left; max-width: 420px; margin: 0 auto;">
+    <ul>
+      <li><b>SEISMO HACK 1.0</b> — 2nd Place (ISET)</li>
+      <li><b>Manipal Hackathon 2025</b> — 3rd Place (MAHE, Manipal)</li>
+      <li><b>GEO HACK 1.0 2025</b> — 1st Place (IEEE GRSS SRMIST)</li>
+      <li><b>Pitch Perfect 2025</b> — 3rd Place (Directorate of Alumni Affairs, SRMIST)</li>
+      <li><b>TechZooka 2025</b> — Runner Up (Infosys × IIT Madras)</li>
+    </ul>
+  </div>
 </td>
+
 
 
 
