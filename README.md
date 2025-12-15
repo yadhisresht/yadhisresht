@@ -9,12 +9,12 @@
 
 
 
-
 ## 🚀 About Me
 
-I am a **Computer Science Engineering undergraduate specializing in Artificial Intelligence & Machine Learning** at **SRM Institute of Science and Technology** (Class of 2028). I am highly competitive, disciplined, and driven by curiosity, with strong interests in **AI research, intelligent systems, and real-world problem solving**.
+I am a **Computer Science Engineering undergraduate** specializing in **Artificial Intelligence & Machine Learning** at **SRM Institute of Science and Technology (Batch 2024–28)**. My academic and research journey is strongly oriented towards applying **AI and ML to high-impact, real-world domains**, particularly **disaster management, earthquake engineering, and spatio-temporal intelligence systems**.
 
-Alongside my technical journey, I actively engage in **public speaking, leadership roles, interdisciplinary collaboration, and sports**, which has helped me develop strong communication skills and a well-rounded professional mindset.
+I am a **Co-Founder of FORESIGHT-X**, an independent interdisciplinary research and innovation lab focused on integrating **computational intelligence with geophysical sciences**. Through this work, I actively engage in developing **data-driven, real-time, and sustainable systems** for seismic forecasting, disaster response, and resilience planning. My interests extend across **AI-driven modeling, geospatial intelligence, digital twins, and applied deep learning**, with a strong emphasis on translating research into deployable systems.
+
 
 
 ## 🌐 Connect with Me
@@ -54,27 +54,42 @@ Alongside my technical journey, I actively engage in **public speaking, leadersh
 
 ## 🕰️ Research & Learning Timeline
 
-🧩 **Early Foundations**  
-Analytical thinking shaped through mathematics, abacus training, and competitive problem-solving.
+🧩 **Analytical Foundations**  
+Developed strong analytical and problem-solving skills through early exposure to mathematics, abacus training, and structured reasoning, forming the foundation for later computational thinking.
 
-💻 **Entry into Computing**  
-Explored programming and algorithms, building interest in learning-based systems over rule-based logic.
+💻 **Transition into Computing & AI**  
+Built a solid base in programming, data structures, and object-oriented design, gradually shifting focus from rule-based systems to learning-based models and data-driven intelligence.
 
-🌍 **Applied AI Research**  
-Worked on seismic and geospatial problems combining ML, ANN models, and GIS mapping.
+🌍 **Interdisciplinary Research Phase**  
+Entered applied research at the intersection of **AI, geospatial analysis, and earthquake engineering**, working on ANN-based seismic modeling and spatial intelligence systems.
 
 🚀 **Current Focus (2024–Present)**  
-AI/ML research · Spatio-temporal modeling · RAG pipelines · LangGraph-based reasoning systems
+Co-founding and contributing to **FORESIGHT-X**, while advancing research in **AI-enabled disaster management**, **spatio-temporal modeling**, **RAG-based reasoning pipelines**, and **LangGraph-driven agent systems**, with parallel work in healthcare and offshore engineering AI applications.
 
 
-## 📚 Publications & Research
 
-📄 **Advancing Earthquake Engineering: The Role of Machine Learning and Deep Learning in Mitigating Seismic Risks**    
-Focus: ANN & DL models for seismic risk assessment using real-world datasets.
+## 📚 Publications & Research Output
 
-🛠️ **Seismic Hazard Assessment using Artificial Neural Networks and Geospatial Analysis**  
-*Manuscript in progress*  
-Expanded with advanced datasets, GIS integration, and evaluation metrics.
+📄 **Advancing Earthquake Engineering: The Role of Machine Learning and Deep Learning in Mitigating Seismic Risks**  
+*Selected for publication in Springer | Presented at IIT Indore*  
+This work explores the application of **Machine Learning and Deep Learning models** for seismic hazard analysis, earthquake prediction, and disaster risk mitigation, demonstrating how computational intelligence can enhance structural safety planning and decision-making.
+
+📄 **Seismic Hazard Assessment in North-Eastern India using Artificial Neural Networks & Geospatial Analysis** *(Ongoing)*  
+Focused on integrating **ANN architectures with geospatial data** to analyze regional seismic patterns, assess vulnerability, and improve earthquake risk prediction accuracy.
+
+📄 **Employing AI-Driven Classification Techniques for Structural Support Selection in Offshore Piping Systems** *(Ongoing)*  
+Aims to develop **AI-based predictive models** for optimizing structural support design, enhancing stability, and improving safety in offshore engineering systems.
+
+📄 **Deep Learning Approaches for Early Detection and Prognostic Prediction in Cervical Cancer Screening** *(Ongoing)*  
+Investigates the use of **deep neural networks** for automated diagnosis and early risk prediction, supporting improved clinical decision-making in healthcare.
+
+🧠 **Selected Research Projects**
+- **AI-Based Spatial Information Systems for Disaster Management** — CINTEL × ARIES collaboration on intelligent spatial decision-support systems  
+- **MARINUS DATUM** — AI-driven marine biodiversity and climate analytics platform  
+- **TERRAGUARD** — AI-powered climate monitoring and risk assessment system  
+- **AI Cricket Chatbot** — NLP-based conversational system for sports analytics  
+- **AI-Assisted Reading Tool for Neurodiverse Users** — Accessibility-focused AI application
+
 
 
 ## 📈 GitHub Stats
