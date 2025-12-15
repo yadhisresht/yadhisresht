@@ -2,15 +2,7 @@
 
 ### AI & ML | Research-Oriented Engineer | Applied Intelligence Systems
 
----
 
-## 🚀 About Me
-
-I am a **Computer Science Engineering undergraduate specializing in Artificial Intelligence & Machine Learning** at **SRM Institute of Science and Technology** (Class of 2028). My work sits at the intersection of **academic research and applied engineering**, with a strong focus on building intelligent systems grounded in solid theoretical understanding and real-world relevance.
-
-I am particularly interested in **data-driven modeling, spatio-temporal analysis, and AI-powered decision systems**, and I actively work on translating research ideas into practical, scalable implementations. Alongside research, I value clear communication, interdisciplinary collaboration, and structured problem-solving.
-
----
 
 ## 🚀 About Me
 
@@ -18,7 +10,7 @@ I am a **Computer Science Engineering undergraduate specializing in Artificial I
 
 Alongside my technical journey, I actively engage in **public speaking, leadership roles, interdisciplinary collaboration, and sports**, which has helped me develop strong communication skills and a well-rounded professional mindset.
 
----
+
 
 ## 🧠 Core Interests
 
@@ -28,7 +20,7 @@ Alongside my technical journey, I actively engage in **public speaking, leadersh
 * Problem Solving & Analytical Systems
 * Generative AI & Automation (exploratory)
 
----
+
 
 ## 💻 Technical & Research Stack
 
@@ -41,7 +33,7 @@ Alongside my technical journey, I actively engage in **public speaking, leadersh
 * **Core Concepts:** Object-Oriented Programming (OOP), algorithmic thinking, problem decomposition
 * **Complementary Skills:** Technical writing, academic documentation, public speaking, interdisciplinary collaboration
 
----
+
 
 ## 🔬 Research Projects & Papers
 
@@ -65,14 +57,14 @@ Alongside my technical journey, I actively engage in **public speaking, leadersh
 * Deep Learning for spatio-temporal data
 * Data-driven decision-support systems
 
----
+
 
 ## 📚 Publications & Conferences
 
 ### 📝 Conference Papers
 
 * **Advancing Earthquake Engineering: The Role of Machine Learning and Deep Learning in Mitigating Seismic Risks**
-  *Presented at an academic conference (peer-reviewed)*
+  *Presented at an academic conference (IIT INDORE)*
   Focused on applying ANN and DL models for seismic risk analysis and validation using real-world earthquake datasets.
 
 ### 📝 Manuscripts & Works in Progress
@@ -81,7 +73,7 @@ Alongside my technical journey, I actively engage in **public speaking, leadersh
   Full-length research manuscript under expansion with enhanced datasets, figures, and evaluation metrics.
 
 
----
+
 
 ## 🎯 Current Focus
 
@@ -89,12 +81,12 @@ Alongside my technical journey, I actively engage in **public speaking, leadersh
 * Building meaningful academic and technical projects
 * Exploring applied AI use cases with societal impact
 
----
+
 
 ## 📫 Connect With Me
 
 * **LinkedIn:** [https://linkedin.com/in/yadhisresht-harikrishnan-615651301](https://linkedin.com/in/yadhisresht-harikrishnan-615651301)
 
----
+
 
 > *Competitive by nature, disciplined by practice, and driven to build technology with impact.*
