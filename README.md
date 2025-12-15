@@ -71,20 +71,21 @@ Co-founding **FORESIGHT-X** while advancing research in **AI-enabled disaster ma
 
 
 
+
 ## 📚 Publications & Research Output
 
 📄 **Advancing Earthquake Engineering: The Role of Machine Learning and Deep Learning in Mitigating Seismic Risks**  
 *Selected for publication in Springer | Presented at IIT Indore*  
-This work explores the application of **Machine Learning and Deep Learning models** for seismic hazard analysis, earthquake prediction, and disaster risk mitigation, demonstrating how computational intelligence can enhance structural safety planning and decision-making.
+Applies **ML and DL models** to seismic hazard analysis and earthquake prediction, demonstrating AI-driven approaches for disaster risk mitigation and structural safety planning.
 
 📄 **Seismic Hazard Assessment in North-Eastern India using Artificial Neural Networks & Geospatial Analysis** *(Ongoing)*  
-Focused on integrating **ANN architectures with geospatial data** to analyze regional seismic patterns, assess vulnerability, and improve earthquake risk prediction accuracy.
+Integrates **ANN architectures with geospatial data** to analyze regional seismic patterns, assess vulnerability, and improve earthquake risk prediction accuracy.
 
 📄 **Employing AI-Driven Classification Techniques for Structural Support Selection in Offshore Piping Systems** *(Ongoing)*  
-Aims to develop **AI-based predictive models** for optimizing structural support design, enhancing stability, and improving safety in offshore engineering systems.
+Develops **AI-based predictive models** to optimize structural support design, enhance stability, and improve safety in offshore engineering systems.
 
 📄 **Deep Learning Approaches for Early Detection and Prognostic Prediction in Cervical Cancer Screening** *(Ongoing)*  
-Investigates the use of **deep neural networks** for automated diagnosis and early risk prediction, supporting improved clinical decision-making in healthcare.
+Explores **deep neural networks** for automated diagnosis and early risk prediction, supporting improved clinical decision-making in healthcare.
 
 🧠 **Selected Research Projects**
 - **AI-Based Spatial Information Systems for Disaster Management** — CINTEL × ARIES collaboration on intelligent spatial decision-support systems  
