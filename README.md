@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&loop=false&lines=Hi%2C+I'm+Yadhisresht+Harikrishnan+%F0%9F%91%8B" />
 </p>
 
-<!-- Static final state -->
-<h1 align="center">Hi, I'm Yadhisresht Harikrishnan 👋</h1>
-
-
 <p align="center"><b>AI & ML • Research-Oriented Engineer • Artificial Intelligence Systems</b></p>
 <p align="center">Competitive by nature, disciplined by practice, and driven to build technology with impact.</p>
 
