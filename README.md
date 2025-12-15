@@ -71,9 +71,9 @@ Focus: ANN & DL models for seismic risk assessment using real-world datasets.
 Expanded with advanced datasets, GIS integration, and evaluation metrics.
 
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yadhisresht&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadhisresht&layout=compact&theme=tokyonight" height="165"/>
 
 
