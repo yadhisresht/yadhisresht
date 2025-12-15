@@ -97,17 +97,30 @@ Explores **deep neural networks** for automated diagnosis and early risk predict
 
 ## 📊 Stats & Achievements
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🏆%20Hackathon%20Achievements-5×%20National%20Level-1a1b27?style=for-the-badge&labelColor=1a1b27&color=70a5fd" />
-</p>
+## 📊 Stats & Achievements
 
-<ul>
-  <li>🥇 GEO HACK 1.0 (IEEE GRSS SRMIST)</li>
-  <li>🥈 SEISMO HACK 1.0 (ISET)</li>
-  <li>🥉 Manipal Hackathon 2025 (MAHE)</li>
-  <li>🥉 Pitch Perfect 2025 (SRMIST)</li>
-  <li>🥈 TechZooka 2025 (Infosys × IIT Madras)</li>
-</ul>
+<table align="center">
+  <tr>
+    <!-- GitHub Stats -->
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=yadhisresht&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadhisresht&layout=compact&theme=tokyonight" height="180"/>
+    </td>
+
+    <!-- Hackathon Stats -->
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/🏆%20Hackathon%20Achievements-5×%20National%20Level-1a1b27?style=for-the-badge&labelColor=1a1b27&color=70a5fd"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🥇%201st%20Place-GEO%20HACK%201.0%20(IEEE%20GRSS%20SRMIST)-1a1b27?style=flat-square&labelColor=1a1b27&color=c9d1d9"/><br/>
+      <img src="https://img.shields.io/badge/🥈%202nd%20Place-SEISMO%20HACK%201.0%20(ISET)-1a1b27?style=flat-square&labelColor=1a1b27&color=c9d1d9"/><br/>
+      <img src="https://img.shields.io/badge/🥉%203rd%20Place-Manipal%20Hackathon%202025%20(MAHE)-1a1b27?style=flat-square&labelColor=1a1b27&color=c9d1d9"/><br/>
+      <img src="https://img.shields.io/badge/🥉%203rd%20Place-Pitch%20Perfect%202025%20(SRMIST)-1a1b27?style=flat-square&labelColor=1a1b27&color=c9d1d9"/><br/>
+      <img src="https://img.shields.io/badge/🥈%20Runner%20Up-TechZooka%202025%20(Infosys%20×%20IIT%20Madras)-1a1b27?style=flat-square&labelColor=1a1b27&color=c9d1d9"/>
+    </td>
+  </tr>
+</table>
+
 
 
 
