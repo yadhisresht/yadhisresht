@@ -77,4 +77,3 @@ Expanded with advanced datasets, GIS integration, and evaluation metrics.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="165"/>
 
 
-> *Competitive by nature, disciplined by practice, and driven to build technology with impact.*
