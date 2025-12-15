@@ -97,23 +97,15 @@ Explores **deep neural networks** for automated diagnosis and early risk predict
 
 ## 📊 Stats & Achievements
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=yadhisresht&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadhisresht&layout=compact&theme=tokyonight" height="165"/>
-    </td>
-    <td align="center" width="50%">
-     <h3>🏆 Hackathon Achievements</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=yadhisresht&show_icons=false&hide=stars,prs,issues,contribs&custom_title=🏆%20Hackathon%20Achievements&bg_color=1a1b27&title_color=70a5fd&text_color=c9d1d9&border_color=30363d&disable_animations=true&card_width=400&line_height=28&include_all_commits=false&count_private=false&show=none" />
 
-<ul align="left">
-  <li><b>🥇 1st Place</b> — GEO HACK 1.0 (2025), IEEE GRSS SRMIST <br/> <sub>90 teams</sub></li>
-  <li><b>🥈 2nd Place</b> — SEISMO HACK 1.0, ISET <br/> <sub>150 teams</sub></li>
-  <li><b>🥉 3rd Place</b> — Manipal Hackathon 2025, MAHE Manipal <br/> <sub>900 teams</sub></li>
-  <li><b>🥉 3rd Place</b> — Pitch Perfect 2025, Directorate of Alumni Affairs, SRMIST <br/> <sub>80 teams</sub></li>
-  <li><b>🥈 Runner Up</b> — TechZooka 2025, Infosys × IIT Madras</li>
-</ul>
+<p>
+🥇 1st Place — GEO HACK 1.0 (2025), IEEE GRSS SRMIST<br/>
+🥈 2nd Place — SEISMO HACK 1.0, ISET<br/>
+🥉 3rd Place — Manipal Hackathon 2025, MAHE Manipal<br/>
+🥉 3rd Place — Pitch Perfect 2025, SRMIST<br/>
+🥈 Runner Up — TechZooka 2025, Infosys × IIT Madras
+</p>
 
 
 
