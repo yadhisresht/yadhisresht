@@ -1,17 +1,5 @@
 <p align="center">
-  <svg width="600" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="40" text-anchor="middle"
-          font-size="32" font-weight="600" fill="#24292f">
-      Hi, I'm Yadhisresht Harikrishnan 👋
-      <animate
-        attributeName="y"
-        from="36"
-        to="44"
-        dur="2.5s"
-        repeatCount="indefinite"
-        direction="alternate" />
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Yadhisresht+Harikrishnan+%F0%9F%91%8B" />
 </p>
 
 <p align="center"><b>AI & ML • Research-Oriented Engineer • Applied Intelligence Systems</b></p>
