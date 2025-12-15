@@ -1,13 +1,12 @@
 <p align="center">
-  <svg width="600" height="70" viewBox="0 0 600 70" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+  <svg width="600" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="40" text-anchor="middle"
           font-size="32" font-weight="600" fill="#24292f">
       Hi, I'm Yadhisresht Harikrishnan 👋
-      <animateTransform
-        attributeName="transform"
-        type="translate"
-        from="0 -5"
-        to="0 5"
+      <animate
+        attributeName="y"
+        from="36"
+        to="44"
         dur="2.5s"
         repeatCount="indefinite"
         direction="alternate" />
@@ -17,6 +16,7 @@
 
 <p align="center"><b>AI & ML • Research-Oriented Engineer • Applied Intelligence Systems</b></p>
 <p align="center">Competitive by nature, disciplined by practice, and driven to build technology with impact.</p>
+
 
 
 
