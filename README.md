@@ -3,7 +3,7 @@
 </p>
 
 <p align="center"><b>AI & ML • Research-Oriented Engineer • Artificial Intelligence Systems</b></p>
-<p align="center">Competitive by nature, disciplined by practice, and driven to build technology with impact.</p>
+<p align="center">Competitive by nature, disciplined by practice and driven to build technology with impact.</p>
 
 
 
